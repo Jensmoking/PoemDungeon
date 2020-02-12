@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<assets>
+  <Configs name="configs">
+    <Config>Configs\Default</Config>
+  </Configs>
+  <sprites name="sprites">
+    <sprite>sprites\spr_knight</sprite>
+    <sprite>sprites\spr_hitknight</sprite>
+    <sprite>sprites\spr_knightmove</sprite>
+    <sprite>sprites\spr_hitwalk</sprite>
+    <sprite>sprites\spr_2</sprite>
+    <sprite>sprites\spr_3</sprite>
+    <sprite>sprites\spr_4</sprite>
+  </sprites>
+  <sounds name="sound">
+    <sound>sound\snd_walk</sound>
+    <sound>sound\snd_sword</sound>
+    <sound>sound\snd_change</sound>
+    <sound>sound\snd_hitd</sound>
+    <sound>sound\snd_hit</sound>
+    <sound>sound\snd_good</sound>
+  </sounds>
+  <backgrounds name="background">
+    <background>background\bkg_0</background>
+  </backgrounds>
+  <objects name="objects">
+    <object>objects\obj_hitknight</object>
+    <object>objects\obj_knight</object>
+    <object>objects\obj_sword</object>
+    <object>objects\obj_slime</object>
+    <object>objects\obj_knightparent</object>
+    <object>objects\obj_6</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_test</room>
+  </rooms>
+  <constants number="0"/>
+  <help>
+    <rtf>help.rtf</rtf>
+  </help>
+</assets>
